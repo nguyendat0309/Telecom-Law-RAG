@@ -1,0 +1,31 @@
+# Core
+langchain
+langchain-community
+langchain-qdrant
+langchain-ollama
+langchain-google-genai
+python-dotenv
+qdrant-client
+
+# Embeddings & Reranking
+sentence-transformers
+
+# Search
+rank-bm25
+
+# API
+fastapi
+uvicorn[standard]
+requests
+
+# UI
+streamlit
+
+# Evaluation
+rouge-score
+ragas
+datasets
+google-genai
+
+# Observability (optional)
+langfuse

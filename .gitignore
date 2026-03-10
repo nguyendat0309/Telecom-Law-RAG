@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data and Databases (large files or specific configurations)
+data/qdrant_db/
+data/raw/
+data/processed/
+data/evaluations/
+
+# Evaluation outputs
+# Ignore everything in evaluations/ except the sample test questions if needed, or ignore all.
+data/evaluations/*.json
+
+# OS
+Thumbs.db
+.DS_Store

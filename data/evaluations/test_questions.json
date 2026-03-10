@@ -1,0 +1,546 @@
+[
+  {
+    "question": "Viễn thông là gì?",
+    "ground_truth": "Viễn thông là việc gửi, truyền, nhận và xử lý ký hiệu, tín hiệu, số liệu, chữ viết, hình ảnh, âm thanh hoặc dạng thông tin khác qua mạng viễn thông.",
+    "expected_sources": [
+      "Chương I - Điều 3 - Khoản 1"
+    ],
+    "category": "single_lookup",
+    "difficulty": "easy",
+    "dieu": 3,
+    "chuong": "I",
+    "id": 1
+  },
+  {
+    "question": "Doanh nghiệp viễn thông cần những điều kiện gì để được cấp giấy phép?",
+    "ground_truth": "Doanh nghiệp cần đáp ứng các điều kiện về vốn, nhân lực, kỹ thuật và phương án kinh doanh theo quy định.",
+    "expected_sources": [
+      "Chương IV - Điều 35 - Khoản 1",
+      "Chương IV - Điều 35 - Khoản 2"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 35,
+    "chuong": "IV",
+    "id": 2
+  },
+  {
+    "question": "Luật viễn thông quy định gì về trí tuệ nhân tạo?",
+    "ground_truth": "Không có quy định về vấn đề này trong Luật Viễn thông.",
+    "expected_sources": [],
+    "category": "negative",
+    "difficulty": "easy",
+    "dieu": null,
+    "chuong": null,
+    "id": 3
+  },
+  {
+    "question": "Mạng viễn thông công cộng là gì?",
+    "ground_truth": "Mạng viễn thông công cộng là mạng viễn thông do doanh nghiệp viễn thông thiết lập để cung cấp dịch vụ viễn thông cho mọi tổ chức, cá nhân.",
+    "expected_sources": [
+      "Chương I - Điều 3 - Khoản 6"
+    ],
+    "category": "single_lookup",
+    "difficulty": "easy",
+    "dieu": 3,
+    "chuong": "I",
+    "id": 4
+  },
+  {
+    "question": "Những hành vi nào bị nghiêm cấm trong hoạt động viễn thông?",
+    "ground_truth": "Các hành vi bị cấm bao gồm: lợi dụng viễn thông xâm phạm an ninh quốc gia, trật tự an toàn xã hội; trộm cắp, sử dụng trái phép tài nguyên viễn thông; cản trở hoạt động viễn thông hợp pháp.",
+    "expected_sources": [
+      "Chương I - Điều 9 - Khoản 1",
+      "Chương I - Điều 9 - Khoản 2",
+      "Chương I - Điều 9 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 9,
+    "chuong": "I",
+    "id": 5
+  },
+  {
+    "question": "Quyền của người sử dụng dịch vụ viễn thông gồm những gì?",
+    "ground_truth": "Người sử dụng có quyền: lựa chọn doanh nghiệp và dịch vụ viễn thông; được bảo đảm bí mật thông tin; được cung cấp thông tin đầy đủ về dịch vụ; khiếu nại khi quyền lợi bị xâm phạm.",
+    "expected_sources": [
+      "Chương VII - Điều 60 - Khoản 1",
+      "Chương VII - Điều 60 - Khoản 2",
+      "Chương VII - Điều 60 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 60,
+    "chuong": "VII",
+    "id": 6
+  },
+  {
+    "question": "Quy định về giá cước dịch vụ viễn thông như thế nào?",
+    "ground_truth": "Giá cước dịch vụ viễn thông được xác định theo cơ chế thị trường, trừ trường hợp Nhà nước quy định giá cước.",
+    "expected_sources": [
+      "Chương VII - Điều 56 - Khoản 1",
+      "Chương VII - Điều 56 - Khoản 2"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 56,
+    "chuong": "VII",
+    "id": 7
+  },
+  {
+    "question": "Luật Viễn thông này áp dụng cho những vấn đề gì vậy ạ?",
+    "ground_truth": "Luật này quy định về hoạt động viễn thông; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động viễn thông; quản lý nhà nước về viễn thông.",
+    "expected_sources": [
+      "Chương I - Điều 1"
+    ],
+    "category": "single_lookup",
+    "difficulty": "easy",
+    "dieu": 1,
+    "chuong": "I",
+    "id": 8
+  },
+  {
+    "question": "Nếu tôi phát hiện ai đó đang phá hoại hoặc xâm phạm cơ sở hạ tầng viễn thông thì phải làm gì?",
+    "ground_truth": "Trường hợp phát hiện hành vi cản trở việc xây dựng hợp pháp, hành vi phá hoại, xâm phạm cơ sở hạ tầng viễn thông, cơ quan, tổ chức, cá nhân có trách nhiệm thông báo kịp thời cho Ủy ban nhân dân cấp xã hoặc cơ quan công an nơi gần nhất.",
+    "expected_sources": [
+      "Chương I - Điều 5 - Khoản 1",
+      "Chương I - Điều 5 - Khoản 2",
+      "Chương I - Điều 5 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 5,
+    "chuong": "I",
+    "id": 9
+  },
+  {
+    "question": "Doanh nghiệp viễn thông có những trách nhiệm gì trong việc bảo vệ mạng lưới?",
+    "ground_truth": "Doanh nghiệp viễn thông, tổ chức thiết lập mạng viễn thông, tổ chức, cá nhân sở hữu hạ tầng kỹ thuật viễn thông thụ động, đại lý dịch vụ viễn thông và người sử dụng dịch vụ viễn thông có trách nhiệm bảo vệ mạng viễn thông, thiết bị đầu cuối.",
+    "expected_sources": [
+      "Chương I - Điều 5 - Khoản 1",
+      "Chương I - Điều 5 - Khoản 2",
+      "Chương I - Điều 5 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 5,
+    "chuong": "I",
+    "id": 10
+  },
+  {
+    "question": "Tôi muốn kinh doanh về lĩnh vực viễn thông, vậy có những hình thức kinh doanh nào được pháp luật quy định?",
+    "ground_truth": "Kinh doanh viễn thông bao gồm các hình thức sau đây: Kinh doanh dịch vụ viễn thông là hoạt động đầu tư thiết lập mạng viễn thông công cộng, cung cấp dịch vụ viễn thông nhằm mục đích sinh lợi; Kinh doanh hàng hóa viễn thông là hoạt động đầu tư sản xuất, trao đổi, mua, bán, cho thuê hàng hóa viễn thông nhằm mục đích sinh lợi.",
+    "expected_sources": [
+      "Chương II - Điều 10 - Khoản 1",
+      "Chương II - Điều 10 - Khoản 2"
+    ],
+    "category": "single_lookup",
+    "difficulty": "medium",
+    "dieu": 10,
+    "chuong": "II",
+    "id": 11
+  },
+  {
+    "question": "Để được phép cung cấp dịch vụ viễn thông tại Việt Nam, doanh nghiệp cần phải có những giấy tờ gì?",
+    "ground_truth": "Doanh nghiệp cung cấp dịch vụ viễn thông phải có giấy phép kinh doanh dịch vụ viễn thông hoặc thực hiện đăng ký, thông báo cung cấp dịch vụ viễn thông, trừ trường hợp quy định tại Điều 42 của Luật này.",
+    "expected_sources": [
+      "Chương II - Điều 20 - Khoản 1",
+      "Chương II - Điều 20 - Khoản 2",
+      "Chương II - Điều 20 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 20,
+    "chuong": "II",
+    "id": 12
+  },
+  {
+    "question": "Khi doanh nghiệp viễn thông cung cấp dịch vụ cho khách hàng, mối quan hệ này được thiết lập dựa trên cơ sở nào?",
+    "ground_truth": "Việc cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông được thực hiện trên cơ sở hợp đồng cung cấp và sử dụng dịch vụ viễn thông giữa doanh nghiệp viễn thông, đại lý dịch vụ viễn thông với người sử dụng dịch vụ viễn thông.",
+    "expected_sources": [
+      "Chương II - Điều 20 - Khoản 1",
+      "Chương II - Điều 20 - Khoản 2",
+      "Chương II - Điều 20 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 20,
+    "chuong": "II",
+    "id": 13
+  },
+  {
+    "question": "Nhà nước quy định những loại dịch vụ viễn thông công ích nào?",
+    "ground_truth": "Dịch vụ viễn thông phổ cập là dịch vụ viễn thông được cung cấp đến mọi người dân theo danh mục, địa bàn, khu vực, điều kiện, chất lượng, giá dịch vụ do Nhà nước quy định; Dịch vụ viễn thông bắt buộc là dịch vụ viễn thông được cung cấp theo yêu cầu của Nhà nước để bảo đảm thông tin liên lạc trong trường hợp khẩn cấp theo quy định của pháp luật.",
+    "expected_sources": [
+      "Chương III - Điều 30 - Khoản 1",
+      "Chương III - Điều 30 - Khoản 2",
+      "Chương III - Điều 30 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 30,
+    "chuong": "III",
+    "id": 14
+  },
+  {
+    "question": "Nguyên tắc hoạt động viễn thông công ích ưu tiên cho những khu vực nào?",
+    "ground_truth": "Phổ cập dịch vụ viễn thông, trong đó ưu tiên khu vực biên giới, miền núi, vùng cao, vùng bãi ngang, ven biển và hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và các khu vực khó có khả năng kinh doanh hiệu quả theo cơ chế thị trường.",
+    "expected_sources": [
+      "Chương III - Điều 30 - Khoản 1",
+      "Chương III - Điều 30 - Khoản 2",
+      "Chương III - Điều 30 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 30,
+    "chuong": "III",
+    "id": 15
+  },
+  {
+    "question": "Quỹ Dịch vụ viễn thông công ích Việt Nam có vai trò gì và được quản lý bởi ai?",
+    "ground_truth": "Quỹ Dịch vụ viễn thông công ích Việt Nam là quỹ tài chính nhà nước ngoài ngân sách do Bộ Thông tin và Truyền thông quản lý để thực hiện chính sách của Nhà nước về hoạt động viễn thông công ích.",
+    "expected_sources": [
+      "Chương III - Điều 31 - Khoản 1",
+      "Chương III - Điều 31 - Khoản 2",
+      "Chương III - Điều 31 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 31,
+    "chuong": "III",
+    "id": 16
+  },
+  {
+    "question": "Những khoản chi nào được phép sử dụng từ Quỹ Dịch vụ viễn thông công ích Việt Nam?",
+    "ground_truth": "Quỹ Dịch vụ viễn thông công ích Việt Nam được sử dụng cho các mục đích sau đây: Hỗ trợ cung cấp dịch vụ viễn thông công ích để bù đắp chi phí cho doanh nghiệp viễn thông phát triển, nâng cấp, duy trì cơ sở hạ tầng viễn thông tại khu vực biên giới, miền núi, vùng cao, vùng bãi ngang, ven biển và hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và các khu vực khó có khả năng kinh doanh hiệu quả theo cơ chế thị trường; kết hợp bảo vệ khu vực biên giới trên đất liền và chủ quyền vùng biển, hải đảo; Hỗ trợ sử dụng dịch vụ viễn thông công ích; Hỗ trợ thiết bị đầu cuối; Chi quản lý hoạt động viễn thông công ích giao cho Quỹ Dịch vụ viễn thông công ích Việt Nam thực hiện; Chi hoạt động bộ máy của Quỹ Dịch vụ viễn thông công ích Việt Nam.",
+    "expected_sources": [
+      "Chương III - Điều 31 - Khoản 1",
+      "Chương III - Điều 31 - Khoản 2",
+      "Chương III - Điều 31 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 31,
+    "chuong": "III",
+    "id": 17
+  },
+  {
+    "question": "Nếu doanh nghiệp muốn cung cấp dịch vụ viễn thông mà có hạ tầng mạng thì thời hạn tối đa của giấy phép là bao lâu?",
+    "ground_truth": "Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng có thời hạn không quá 15 năm được cấp cho doanh nghiệp cung cấp dịch vụ có hạ tầng mạng",
+    "expected_sources": [
+      "Chương IV - Điều 33 - Khoản 1",
+      "Chương IV - Điều 33 - Khoản 2",
+      "Chương IV - Điều 33 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 33,
+    "chuong": "IV",
+    "id": 18
+  },
+  {
+    "question": "Tôi muốn xin giấy phép để lắp đặt cáp viễn thông trên biển, thời hạn tối đa của giấy phép này là bao nhiêu năm?",
+    "ground_truth": "Giấy phép lắp đặt cáp viễn thông trên biển có thời hạn không quá 25 năm được cấp cho tổ chức lắp đặt cáp viễn thông trên biển cập bờ hoặc đi qua vùng biển Việt Nam",
+    "expected_sources": [
+      "Chương IV - Điều 33 - Khoản 1",
+      "Chương IV - Điều 33 - Khoản 2",
+      "Chương IV - Điều 33 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 33,
+    "chuong": "IV",
+    "id": 19
+  },
+  {
+    "question": "Khi nào thì doanh nghiệp viễn thông cần làm thủ tục sửa đổi, bổ sung giấy phép?",
+    "ground_truth": "Trong thời hạn có hiệu lực của giấy phép, tổ chức, doanh nghiệp được cấp giấy phép viễn thông phải thực hiện thủ tục đề nghị sửa đổi, bổ sung giấy phép khi thay đổi nội dung của giấy phép.",
+    "expected_sources": [
+      "Chương IV - Điều 39 - Khoản 1",
+      "Chương IV - Điều 39 - Khoản 2",
+      "Chương IV - Điều 39 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 39,
+    "chuong": "IV",
+    "id": 20
+  },
+  {
+    "question": "Nếu giấy phép viễn thông của tôi đã được cấp với thời hạn tối đa, thì thời gian gia hạn tối đa là bao lâu?",
+    "ground_truth": "trường hợp giấy phép có thời hạn cấp lần đầu bằng thời hạn tối đa quy định cho loại giấy phép đó thì khi giấy phép hết hạn sử dụng, chỉ được xem xét gia hạn không quá 01 năm.",
+    "expected_sources": [
+      "Chương IV - Điều 39 - Khoản 1",
+      "Chương IV - Điều 39 - Khoản 2",
+      "Chương IV - Điều 39 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 39,
+    "chuong": "IV",
+    "id": 21
+  },
+  {
+    "question": "Nhà nước quản lý hoạt động viễn thông bằng những nội dung nào?",
+    "ground_truth": "Nhà nước quản lý hoạt động viễn thông thông qua việc xây dựng, ban hành, tổ chức thực hiện chiến lược, quy hoạch, chính sách phát triển viễn thông, văn bản quy phạm pháp luật về viễn thông; quy định về cơ chế thử nghiệm có kiểm soát công nghệ mới, mô hình mới trong hoạt động viễn thông; tiêu chuẩn quốc gia, quy chuẩn kỹ thuật, yêu cầu kỹ thuật, định mức kinh tế, kỹ thuật về viễn thông; quản lý, điều tiết thị trường viễn thông; quản lý kinh doanh dịch vụ viễn thông và nghiệp vụ viễn thông; phổ biến, giáo dục pháp luật về viễn thông; đào tạo, bồi dưỡng, phát triển nguồn nhân lực; nghiên cứu, ứng dụng khoa học và công nghệ trong hoạt động viễn thông; quản lý công tác báo cáo, thống kê về viễn thông theo hình thức trực tuyến, trực tiếp; hợp tác quốc tế về viễn thông; thanh tra, kiểm tra việc thực hiện các quy định của pháp luật về viễn thông; giải quyết tranh chấp, khiếu nại, tố cáo, xử lý vi phạm pháp luật về viễn thông.",
+    "expected_sources": [
+      "Chương IX - Điều 68 - Khoản 1",
+      "Chương IX - Điều 68 - Khoản 2",
+      "Chương IX - Điều 68 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 68,
+    "chuong": "IX",
+    "id": 22
+  },
+  {
+    "question": "Ngoài việc ban hành văn bản pháp luật, nhà nước còn thực hiện những công việc gì để quản lý nhà nước về viễn thông?",
+    "ground_truth": "Ngoài việc ban hành văn bản quy phạm pháp luật về viễn thông, nhà nước còn quy định về cơ chế thử nghiệm có kiểm soát công nghệ mới, mô hình mới trong hoạt động viễn thông; tiêu chuẩn quốc gia, quy chuẩn kỹ thuật, yêu cầu kỹ thuật, định mức kinh tế, kỹ thuật về viễn thông; quản lý, điều tiết thị trường viễn thông; quản lý kinh doanh dịch vụ viễn thông và nghiệp vụ viễn thông; phổ biến, giáo dục pháp luật về viễn thông; đào tạo, bồi dưỡng, phát triển nguồn nhân lực; nghiên cứu, ứng dụng khoa học và công nghệ trong hoạt động viễn thông; quản lý công tác báo cáo, thống kê về viễn thông theo hình thức trực tuyến, trực tiếp; hợp tác quốc tế về viễn thông; thanh tra, kiểm tra việc thực hiện các quy định của pháp luật về viễn thông; giải quyết tranh chấp, khiếu nại, tố cáo, xử lý vi phạm pháp luật về viễn thông.",
+    "expected_sources": [
+      "Chương IX - Điều 68 - Khoản 1",
+      "Chương IX - Điều 68 - Khoản 2",
+      "Chương IX - Điều 68 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 68,
+    "chuong": "IX",
+    "id": 23
+  },
+  {
+    "question": "Ai là cơ quan đầu mối chịu trách nhiệm giúp Chính phủ quản lý nhà nước về viễn thông?",
+    "ground_truth": "Bộ Thông tin và Truyền thông là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về viễn thông.",
+    "expected_sources": [
+      "Chương IX - Điều 69 - Khoản 1",
+      "Chương IX - Điều 69 - Khoản 2",
+      "Chương IX - Điều 69 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 69,
+    "chuong": "IX",
+    "id": 24
+  },
+  {
+    "question": "Trách nhiệm quản lý mạng viễn thông dùng riêng phục vụ quốc phòng, an ninh thuộc về cơ quan nào?",
+    "ground_truth": "Bộ Quốc phòng, Bộ Công an, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý mạng viễn thông dùng riêng phục vụ quốc phòng, an ninh.",
+    "expected_sources": [
+      "Chương IX - Điều 69 - Khoản 1",
+      "Chương IX - Điều 69 - Khoản 2",
+      "Chương IX - Điều 69 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 69,
+    "chuong": "IX",
+    "id": 25
+  },
+  {
+    "question": "Khi một doanh nghiệp viễn thông muốn kết nối mạng của mình với mạng của doanh nghiệp khác thì cần tuân thủ những nguyên tắc nào?",
+    "ground_truth": "Việc kết nối mạng, dịch vụ viễn thông được thực hiện theo các nguyên tắc sau đây: Thông qua thương lượng trên cơ sở bảo đảm công bằng, hợp lý, phù hợp với quyền, lợi ích của các bên tham gia; Sử dụng hiệu quả tài nguyên viễn thông và cơ sở hạ tầng viễn thông; Bảo đảm yêu cầu kỹ thuật về kết nối viễn thông và an toàn, thống nhất của các mạng viễn thông; Bảo đảm quyền, lợi ích hợp pháp của người sử dụng dịch vụ viễn thông và tổ chức, cá nhân có liên quan.",
+    "expected_sources": [
+      "Chương V - Điều 44 - Khoản 1",
+      "Chương V - Điều 44 - Khoản 2"
+    ],
+    "category": "single_lookup",
+    "difficulty": "medium",
+    "dieu": 44,
+    "chuong": "V",
+    "id": 26
+  },
+  {
+    "question": "Tôi muốn hỏi về việc kết nối mạng viễn thông dùng riêng với mạng công cộng, thì cần phải có những điều kiện gì?",
+    "ground_truth": "Mạng viễn thông dùng riêng được kết nối vào mạng viễn thông công cộng trên cơ sở bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật của mạng viễn thông công cộng và tuân thủ các quy định của Luật này về kết nối mạng viễn thông công cộng.",
+    "expected_sources": [
+      "Chương V - Điều 46 - Khoản 1",
+      "Chương V - Điều 46 - Khoản 2",
+      "Chương V - Điều 46 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 46,
+    "chuong": "V",
+    "id": 27
+  },
+  {
+    "question": "Nếu hai mạng viễn thông dùng riêng muốn kết nối trực tiếp với nhau thì có được không, hay cần phải xin phép ai?",
+    "ground_truth": "Các mạng viễn thông dùng riêng không được kết nối trực tiếp với nhau, trừ trường hợp có sự đồng ý bằng văn bản của Bộ Thông tin và Truyền thông.",
+    "expected_sources": [
+      "Chương V - Điều 46 - Khoản 1",
+      "Chương V - Điều 46 - Khoản 2",
+      "Chương V - Điều 46 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 46,
+    "chuong": "V",
+    "id": 28
+  },
+  {
+    "question": "Việc quản lý tài nguyên viễn thông bao gồm những hoạt động nào?",
+    "ground_truth": "Quản lý tài nguyên viễn thông bao gồm quy hoạch, phân bổ, cấp, đăng ký, ấn định, sử dụng, chuyển nhượng quyền sử dụng, thu hồi quyền sử dụng, hoàn trả tài nguyên viễn thông; giải quyết tranh chấp về đăng ký, sử dụng tên miền quốc gia Việt Nam “.vn”.",
+    "expected_sources": [
+      "Chương VI - Điều 48 - Khoản 1",
+      "Chương VI - Điều 48 - Khoản 2",
+      "Chương VI - Điều 48 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 48,
+    "chuong": "VI",
+    "id": 29
+  },
+  {
+    "question": "Khi quản lý tài nguyên viễn thông, cần tuân thủ những nguyên tắc nào?",
+    "ground_truth": "Việc quản lý tài nguyên viễn thông được thực hiện theo các nguyên tắc sau đây: Phù hợp với quy hoạch hạ tầng thông tin và truyền thông; Bảo đảm tối ưu việc thiết lập mạng và cung cấp dịch vụ viễn thông; Bảo đảm công bằng, công khai, minh bạch trong việc phân bổ, cấp tài nguyên viễn thông; Bảo đảm việc sử dụng tài nguyên viễn thông hiệu quả, tiết kiệm, đúng mục đích; Bảo đảm quyền, lợi ích hợp pháp của tổ chức, cá nhân được phân bổ, cấp tài nguyên viễn thông và người sử dụng dịch vụ viễn thông.",
+    "expected_sources": [
+      "Chương VI - Điều 48 - Khoản 1",
+      "Chương VI - Điều 48 - Khoản 2",
+      "Chương VI - Điều 48 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 48,
+    "chuong": "VI",
+    "id": 30
+  },
+  {
+    "question": "Những loại mã, số viễn thông nào thì được phép chuyển nhượng quyền sử dụng?",
+    "ground_truth": "Mã, số viễn thông, tài nguyên Internet Việt Nam được chuyển nhượng quyền sử dụng bao gồm: Mã, số viễn thông được Bộ Thông tin và Truyền thông phân bổ cho tổ chức, cá nhân thông qua đấu giá; Tên miền quốc gia Việt Nam “.vn”, trừ tên miền được bảo vệ, tên miền dùng chung theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông, tên miền đang bị xử lý vi phạm hoặc đang trong quá trình giải quyết tranh chấp, khiếu nại, tên miền đang bị tạm ngừng sử dụng.",
+    "expected_sources": [
+      "Chương VI - Điều 51 - Khoản 1",
+      "Chương VI - Điều 51 - Khoản 2",
+      "Chương VI - Điều 51 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 51,
+    "chuong": "VI",
+    "id": 31
+  },
+  {
+    "question": "Để chuyển nhượng quyền sử dụng mã, số viễn thông, tài nguyên Internet thì các bên cần đáp ứng những điều kiện gì?",
+    "ground_truth": "Việc chuyển nhượng quyền sử dụng mã, số viễn thông, tài nguyên Internet Việt Nam được thực hiện khi đáp ứng đủ các điều kiện sau đây: Tổ chức, cá nhân chuyển nhượng quyền sử dụng mã, số viễn thông, tài nguyên Internet Việt Nam phải có quyền sử dụng hợp pháp mã, số viễn thông, tài nguyên Internet đó; Tổ chức, cá nhân nhận chuyển nhượng quyền sử dụng mã, số viễn thông, tài nguyên Internet Việt Nam phải được phép hoạt động hoặc đủ điều kiện đầu tư, khai thác, sử dụng mã, số viễn thông, tài nguyên Internet đó.",
+    "expected_sources": [
+      "Chương VI - Điều 51 - Khoản 1",
+      "Chương VI - Điều 51 - Khoản 2",
+      "Chương VI - Điều 51 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 51,
+    "chuong": "VI",
+    "id": 32
+  },
+  {
+    "question": "Ở Việt Nam, những loại tiêu chuẩn nào được áp dụng cho thiết bị viễn thông, kết nối viễn thông, công trình viễn thông, chất lượng mạng và dịch vụ viễn thông?",
+    "ground_truth": "Hệ thống tiêu chuẩn viễn thông bao gồm tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài, tiêu chuẩn quốc gia và tiêu chuẩn cơ sở đối với thiết bị viễn thông, kết nối viễn thông, công trình viễn thông, chất lượng mạng và dịch vụ viễn thông được công bố, áp dụng tại Việt Nam.",
+    "expected_sources": [
+      "Chương VII - Điều 54 - Khoản 1",
+      "Chương VII - Điều 54 - Khoản 2"
+    ],
+    "category": "single_lookup",
+    "difficulty": "medium",
+    "dieu": 54,
+    "chuong": "VII",
+    "id": 33
+  },
+  {
+    "question": "Cho mình hỏi, khi định giá dịch vụ viễn thông thì dựa vào những yếu tố nào vậy ạ?",
+    "ground_truth": "Giá dịch vụ viễn thông được xác định trên cơ sở các căn cứ sau đây: Yếu tố hình thành giá dịch vụ viễn thông tại thời điểm định giá; Quan hệ cung - cầu của dịch vụ viễn thông.",
+    "expected_sources": [
+      "Chương VII - Điều 58 - Khoản 1",
+      "Chương VII - Điều 58 - Khoản 2"
+    ],
+    "category": "single_lookup",
+    "difficulty": "medium",
+    "dieu": 58,
+    "chuong": "VII",
+    "id": 34
+  },
+  {
+    "question": "Khi quy hoạch xây dựng các khu đô thị, khu dân cư thì cần tuân thủ những quy định nào liên quan đến hạ tầng viễn thông thụ động?",
+    "ground_truth": "Quy hoạch xây dựng khu đô thị, khu dân cư, khu chức năng, cụm công nghiệp quy định tại Luật Xây dựng và pháp luật có liên quan phải bảo đảm tính thống nhất, đồng bộ với quy hoạch hạ tầng kỹ thuật viễn thông thụ động để thuận tiện cho việc thiết lập cơ sở hạ tầng viễn thông, cung cấp, sử dụng dịch vụ viễn thông.",
+    "expected_sources": [
+      "Chương VIII - Điều 63 - Khoản 1",
+      "Chương VIII - Điều 63 - Khoản 2",
+      "Chương VIII - Điều 63 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 63,
+    "chuong": "VIII",
+    "id": 35
+  },
+  {
+    "question": "Quy hoạch hạ tầng kỹ thuật viễn thông thụ động ở địa phương có vai trò như thế nào so với quy hoạch tỉnh?",
+    "ground_truth": "Quy hoạch hạ tầng kỹ thuật viễn thông thụ động được lập ở địa phương là quy hoạch có tính chất kỹ thuật, chuyên ngành cụ thể hóa quy hoạch tỉnh, phù hợp với quy hoạch hạ tầng thông tin và truyền thông.",
+    "expected_sources": [
+      "Chương VIII - Điều 63 - Khoản 1",
+      "Chương VIII - Điều 63 - Khoản 2",
+      "Chương VIII - Điều 63 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 63,
+    "chuong": "VIII",
+    "id": 36
+  },
+  {
+    "question": "Cụm từ \"giấy phép thiết lập mạng viễn thông\" trong Luật Tần số vô tuyến điện giờ được gọi là gì?",
+    "ground_truth": "giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng",
+    "expected_sources": [
+      "Chương X - Điều 71 - Khoản 1",
+      "Chương X - Điều 71 - Khoản 2",
+      "Chương X - Điều 71 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 71,
+    "chuong": "X",
+    "id": 37
+  },
+  {
+    "question": "Trong Luật Quản lý, sử dụng tài sản công, cụm từ \"tài nguyên Internet\" đã được thay đổi thành gì?",
+    "ground_truth": "tài nguyên Internet Việt Nam",
+    "expected_sources": [
+      "Chương X - Điều 71 - Khoản 1",
+      "Chương X - Điều 71 - Khoản 2",
+      "Chương X - Điều 71 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 71,
+    "chuong": "X",
+    "id": 38
+  },
+  {
+    "question": "Khi nào thì Luật Viễn thông mới này bắt đầu có hiệu lực?",
+    "ground_truth": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2024, trừ quy định tại khoản 3 và khoản 4 Điều này.",
+    "expected_sources": [
+      "Chương X - Điều 72 - Khoản 1",
+      "Chương X - Điều 72 - Khoản 2",
+      "Chương X - Điều 72 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 72,
+    "chuong": "X",
+    "id": 39
+  },
+  {
+    "question": "Các quy định về dịch vụ viễn thông cơ bản trên Internet, trung tâm dữ liệu, điện toán đám mây sẽ có hiệu lực từ khi nào?",
+    "ground_truth": "Quy định về cung cấp dịch vụ viễn thông cơ bản trên Internet, dịch vụ trung tâm dữ liệu, dịch vụ điện toán đám mây tại Điều 28 và Điều 29 của Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025.",
+    "expected_sources": [
+      "Chương X - Điều 72 - Khoản 1",
+      "Chương X - Điều 72 - Khoản 2",
+      "Chương X - Điều 72 - Khoản 3"
+    ],
+    "category": "multi_clause",
+    "difficulty": "medium",
+    "dieu": 72,
+    "chuong": "X",
+    "id": 40
+  }
+]
